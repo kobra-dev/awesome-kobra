@@ -1,0 +1,33 @@
+{
+  "blocklyXml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><variables><variable id=\"Df~c:-6K}Vgq|5Ja4jY7\">model</variable></variables><block type=\"variables_set\" id=\"X5Wy.!Agpr[Ns(+}U[,n\" x=\"149\" y=\"88\"><field name=\"VAR\" id=\"Df~c:-6K}Vgq|5Ja4jY7\">model</field><value name=\"VALUE\"><block type=\"linr_create\" id=\"G2#N[giF9$7wPf:;,mqS\"><value name=\"X_VAL\"><block type=\"lists_create_with\" id=\"9WMYExkyPqk;)9{gKL/e\"><mutation items=\"3\"></mutation><value name=\"ADD0\"><block type=\"math_number\" id=\"1NoMsXX1W)kou1p3DMvT\"><field name=\"NUM\">0</field></block></value><value name=\"ADD1\"><block type=\"math_number\" id=\"V4VRhRDEwG%v};L`n-HD\"><field name=\"NUM\">1</field></block></value><value name=\"ADD2\"><block type=\"math_number\" id=\"7,!|`rV}^eJGcO)y`d!)\"><field name=\"NUM\">2</field></block></value></block></value><value name=\"Y_VAL\"><block type=\"lists_create_with\" id=\")+sMh_9X^zf7GBAYaT1=\"><mutation items=\"3\"></mutation><value name=\"ADD0\"><block type=\"math_number\" id=\"%18.t|ro*yrs`BE%gWn{\"><field name=\"NUM\">2</field></block></value><value name=\"ADD1\"><block type=\"math_number\" id=\"w;u7rQbQNwm9Zdm?J3`2\"><field name=\"NUM\">4</field></block></value><value name=\"ADD2\"><block type=\"math_number\" id=\"Vk~2D9+D@bkth2.4p75-\"><field name=\"NUM\">6</field></block></value></block></value></block></value><next><block type=\"linr_fit\" id=\"GXifVg6Kzf]up+xnT8}d\"><value name=\"VALUE\"><block type=\"variables_get\" id=\"QpbJqprRw93;l,F_lded\"><field name=\"VAR\" id=\"Df~c:-6K}Vgq|5Ja4jY7\">model</field></block></value><next><block type=\"text_print_console\" id=\"b0=cyg@LmmqP~Nimi)/w\"><value name=\"VALUE\"><block type=\"linr_predict\" id=\"fmU[MtSjV6_Za4NPj%NZ\"><value name=\"MODEL_VAL\"><block type=\"variables_get\" id=\"?DX@{-Vu;mY5iVs{CJlw\"><field name=\"VAR\" id=\"Df~c:-6K}Vgq|5Ja4jY7\">model</field></block></value><value name=\"INPUT_VAL\"><block type=\"math_number\" id=\"TfQSf#Nt4m5it!e%m?U)\"><field name=\"NUM\">6</field></block></value></block></value></block></next></block></next></block></xml>",
+  "plotState": { "isActive": false, "plotData": [], "plotTitle": "" },
+  "consoleState": {
+    "focus": false,
+    "acceptInput": true,
+    "typer": "",
+    "point": 0,
+    "currLabel": "> ",
+    "promptText": "",
+    "restoreText": "",
+    "searchText": "",
+    "searchDirection": null,
+    "searchInit": false,
+    "log": [
+      {
+        "label": "",
+        "command": "",
+        "message": [
+          { "type": "run-start", "value": ["Run started at 12:55:46 AM"] },
+          { "value": [14] },
+          { "type": "run-end", "value": ["Run ended at 12:55:46 AM"] }
+        ]
+      }
+    ],
+    "history": [],
+    "historyn": 0,
+    "kill": [],
+    "killn": 0,
+    "argument": null,
+    "lastCommand": 0
+  }
+}
