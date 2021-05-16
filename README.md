@@ -1,6 +1,24 @@
-<div align="center">
-  <h2> awesome kobra  </h1>
-</div>
+# Awesome Kobra
+
+Kobra is a visual Porgramming language (Like scratch) for Machine Learning
 
 
-Collection of awesome thing related to kobra
+## Contents
+
+- Docs
+- Projects
+- Presentations
+- Community
+
+
+
+
+
+## Doc
+ 
+  - [Official docs](https://docs.kobra.dev/)
+  - [Kobra's Studio](https://studio.kobra.dev/editor)
+
+- show case
+- Video resources
+  - [1littlecoder's youtube channel](https://www.youtube.com/watch?v=a6LH161MaV8)
